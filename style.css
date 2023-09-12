@@ -1,0 +1,14 @@
+* {
+    color: black;
+    color: blue;
+}
+div {
+    color: blue;
+}
+#box{
+    color: blue;
+}
+.box{
+    color: pink !important;
+}
+
